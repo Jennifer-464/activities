@@ -1,0 +1,29 @@
+div {
+    background-color: lightcoral;
+    /* height: 300px; */
+}
+
+.top3 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#top1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: green;
+    border: 15px double red;
+    border-radius: 25px;
+}
+
+#landing-page {
+    /* border: 3px solid blue; */
+    height: 100vh;
+    background-image: url("./travel.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+/* s
+update github with 3 commands: add, commit, push
+*/
